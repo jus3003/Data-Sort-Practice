@@ -1,0 +1,8 @@
+The difference between the largest and smallest value: 340
+The number of items in the tuple: 14
+The number of even integers in the tuple: 6
+The sum of the values in the tuple: 800
+The average of the values: 57.14
+The number of prime numbers in the tuple: 8
+The number of items if the tuple is converted to a set: 13
+A list created from a slice starting with the 4th element and includes every third element after that: [18 8 97 341]
